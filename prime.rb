@@ -8,4 +8,3 @@ else
     number % factors == 0
   end
 end
-end
